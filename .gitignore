@@ -1,0 +1,9 @@
+# raw corpus, obtained separately (too large for git)
+data/PHEME18
+third_party/
+
+# generated outputs
+results/
+__pycache__/
+*.pyc
+.venv/
